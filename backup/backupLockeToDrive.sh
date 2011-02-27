@@ -6,7 +6,6 @@ tar cjpvf \
   --exclude="*/.rvm*" \
   --exclude="*/Desktop*" \
   --exclude="*/Downloads*" \
-  --exclude="*/Dropbox*" \
   --exclude="*/Movies*" \
   --exclude="*/Music*" \
   --exclude="*/Pictures*" \
