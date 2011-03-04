@@ -1,0 +1,5 @@
+#!/bin/bash
+
+for X in `git branch  | tr -d "*" | tr -d " "`; do 
+    git checkout $X; git pull origin $X; 
+done
