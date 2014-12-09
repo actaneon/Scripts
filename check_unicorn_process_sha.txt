@@ -1,0 +1,4 @@
+2000     25175  0.0  0.5  71288 20484 ?        Sl   Aug12  29:06 ruby /data/oneup/shared/bin/unicorn_state_watcher.rb /data/oneup/shared/.oneup.sock /data/oneup/shared/unicorn.stats /data/oneup/shared/pids/unicorn_watcher.pid 4 1 30
+(3)[west2-oneup-1] root:~# cd /proc/16570/cwd
+(4)[west2-oneup-1] root:/proc/16570/cwd (deploy)# realpath .
+/data/oneup/releases/25d9a035d7b900279219ac9c18278e1d89886328
