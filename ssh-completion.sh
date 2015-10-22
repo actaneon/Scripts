@@ -12,4 +12,4 @@ _ssh()
   # fi
 }
 
-complete -F _ssh ssh josh@
+complete -F _ssh ssh
